@@ -1,0 +1,62 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Hospedagem.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Operacoes": {
+      "post": {
+        "tags": [
+          "Operacoes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RequisicaoEntrada"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RequisicaoEntrada"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RequisicaoEntrada"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "RequisicaoEntrada": {
+        "type": "object",
+        "properties": {
+          "nomeProduto": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantidade": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "precoCusto": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

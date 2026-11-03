@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Hospedagem.API.Controllers.OperacoesController",
+    "Method": "SimularEntrada",
+    "RelativePath": "api/Operacoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entrada",
+        "Type": "Hospedagem.API.Models.RequisicaoEntrada",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
