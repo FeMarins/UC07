@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+K+/tx+uhEc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Aula-04\\ConceitoDotNet\\ConceitoDotNet\\ConceitoDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felipe.mpereira14\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
