@@ -1,0 +1,139 @@
+[
+  {
+    "ContainingType": "Pousada.API.Controllers.ChalesControllers",
+    "Method": "Get",
+    "RelativePath": "api/ChalesControllers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pousada.API.Controllers.ChalesControllers",
+    "Method": "Criar",
+    "RelativePath": "api/ChalesControllers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novoChales",
+        "Type": "Pousada.API.Models.Chales",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pousada.API.Controllers.ChalesControllers",
+    "Method": "GetById",
+    "RelativePath": "api/ChalesControllers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pousada.API.Controllers.ChalesControllers",
+    "Method": "GetByNome",
+    "RelativePath": "api/ChalesControllers/porNome/{nome}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "localizacao",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "nome",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pousada.API.Controllers.ItensController",
+    "Method": "Get",
+    "RelativePath": "api/Itens",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pousada.API.Controllers.ItensController",
+    "Method": "Criar",
+    "RelativePath": "api/Itens",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novoItem",
+        "Type": "Pousada.API.Models.Item",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pousada.API.Controllers.ItensController",
+    "Method": "Delete",
+    "RelativePath": "api/Itens",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pousada.API.Controllers.ItensController",
+    "Method": "GetById",
+    "RelativePath": "api/Itens/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Pousada.API.Controllers.ItensController",
+    "Method": "GetByNome",
+    "RelativePath": "api/Itens/porNome/{nome}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
