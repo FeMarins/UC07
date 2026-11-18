@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|c:\\users\\felipe.mpereira14\\documents\\uc7 api(back-end)\\atividades\\ativi da aula-07\\webapp\\webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|c:\\users\\felipe.mpereira14\\documents\\uc7 api(back-end)\\atividades\\ativi da aula-07\\webapp\\webapp.api\\controllers\\cheklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\cheklistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|c:\\users\\felipe.mpereira14\\documents\\uc7 api(back-end)\\atividades\\ativi da aula-07\\webapp\\webapp.api\\models\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\models\\checklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|c:\\users\\felipe.mpereira14\\documents\\uc7 api(back-end)\\atividades\\ativi da aula-07\\webapp\\webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|c:\\users\\felipe.mpereira14\\documents\\uc7 api(back-end)\\atividades\\ativi da aula-07\\webapp\\webapp.api\\dbcontext\\checkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\dbcontext\\checkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|c:\\users\\felipe.mpereira14\\documents\\uc7 api(back-end)\\atividades\\ativi da aula-07\\webapp\\webapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6269438B-AF97-4BEA-99E9-3DD17BB9B011}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\Program.cs*",
+              "RelativeToolTip": "WebApp.API\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T00:32:32.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheklistController.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\Controllers\\CheklistController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\CheklistController.cs",
+              "ToolTip": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\Controllers\\CheklistController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\CheklistController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T23:27:41.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApp.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\appsettings.Development.json",
+              "RelativeToolTip": "WebApp.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-16T23:24:38.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\appsettings.json",
+              "RelativeToolTip": "WebApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-16T23:21:41.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\Dbcontext\\CheckDbContext.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Dbcontext\\CheckDbContext.cs",
+              "ToolTip": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\Dbcontext\\CheckDbContext.cs",
+              "RelativeToolTip": "WebApp.API\\Dbcontext\\CheckDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T23:10:20.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checklist.cs",
+              "DocumentMoniker": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\Models\\Checklist.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Models\\Checklist.cs",
+              "ToolTip": "C:\\Users\\felipe.mpereira14\\Documents\\UC7 API(BACK-END)\\Atividades\\Ativi da Aula-07\\WebApp\\WebApp.API\\Models\\Checklist.cs",
+              "RelativeToolTip": "WebApp.API\\Models\\Checklist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T22:54:15.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

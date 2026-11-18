@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "WebApp.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Cheklist": {
+      "get": {
+        "tags": [
+          "Cheklist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

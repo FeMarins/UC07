@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebApp.API.Controllers.CheklistController",
+    "Method": "Get",
+    "RelativePath": "api/Cheklist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
